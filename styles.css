@@ -255,33 +255,33 @@ img {
       font-family: Georgia;
     }
 
-    #subheading {font-style: italic;
-      font-size: 20px;
-    }
+  #subheading {font-style: italic;
+    font-size: 20px;
+  }
 
-    #photodescription {font-style: italic;
-      color: #71797E;
-      text-align: right;
-      font-family: Georgia;
-      font-size: 12px;
-    }
 
-  
+  #photodescription {font-style: italic;
+    color: #71797E;
+    text-align: right;
+    font-family: Georgia;
+    font-size: 14px;
+  }
 
-    body {
-            background: ;
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            font-size: 12px;
-            font-family: Georgia;
-            background-color: white;
-            font-style: normal;
-            padding-left: 150px;
-            padding-right: 150px;
-            padding-top: 50px;
-            padding-bottom: 50px;
 
-          }
+  body {
+          background: ;
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          font-size: 16px;
+          font-family: Georgia;
+          background-color: white;
+          font-style: normal;
+          padding-left: 150px;
+          padding-right: 150px;
+          padding-top: 50px;
+          padding-bottom: 50px;
+
+        }
 
       .div {
         padding-top: 10px;
